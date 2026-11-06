@@ -1,0 +1,53 @@
+{
+    "chart_title": "My Semester",
+    "data_points": [
+        {
+            "activity": "CS 1301",
+            "category": "Course",
+            "credits": 3,
+            "class_hours": 3,
+            "assignment_exam_hours": 5,
+            "weekly_hours": 18
+        },
+        {
+            "activity": "MATH 1554",
+            "category": "Course",
+            "credits": 4,
+            "class_hours": 4,
+            "assignment_exam_hours": 3,
+            "weekly_hours": 11
+        },
+        {
+            "activity": "Startup Lab",
+            "category": "Course",
+            "credits": 3,
+            "class_hours": 3,
+            "assignment_exam_hours": 2.5,
+            "weekly_hours": 7
+        },
+        {
+            "activity": "Japanese",
+            "category": "Course",
+            "credits": 4,
+            "class_hours": 4,
+            "assignment_exam_hours": 2,
+            "weekly_hours": 9
+        },
+        {
+            "activity": "U.S. History",
+            "category": "Course",
+            "credits": 3,
+            "class_hours": 3,
+            "assignment_exam_hours": 1,
+            "weekly_hours": 6
+        },
+        {
+            "activity": "Club",
+            "category": "Extracurricular",
+            "credits": 0,
+            "class_hours": 0,
+            "assignment_exam_hours": 0,
+            "weekly_hours": 8
+        }
+    ]
+}

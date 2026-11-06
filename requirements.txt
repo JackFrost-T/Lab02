@@ -1,0 +1,6 @@
+# Install from the Lab1 directory with:
+# python -m pip install -r Lab2/requirements.txt
+streamlit
+pandas
+altair
+pathlib
